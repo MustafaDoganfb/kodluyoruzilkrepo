@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
   
 
-![](file:///home/md/Downloads/%C3%B6dev1.png)
+![](https://rimgo.vern.cc/2cI63u1.png)
 
   
 
